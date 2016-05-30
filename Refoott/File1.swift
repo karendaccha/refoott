@@ -10,6 +10,11 @@ import Foundation
 import UIKit
 
 
+//5/31→アプリのスタート画面　6/1→現在位置
+
+
+
+
 
 
 
