@@ -8,6 +8,11 @@
 
 import Foundation
 import UIKit
+class File1: UIViewController {
+@IBAction func a(){
+    
+}
+
 
 
 //5/31→アプリのスタート画面　6/1→現在位置
