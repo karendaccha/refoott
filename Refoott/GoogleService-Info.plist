@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>925397435319-6s8qabnqm7ht50pibcc5q9r7e0lta2el.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.925397435319-6s8qabnqm7ht50pibcc5q9r7e0lta2el</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDI57aeSuATRU5Gs9uX5_sXYWrTZJEabds</string>
+	<key>GCM_SENDER_ID</key>
+	<string>925397435319</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.litech.Refoott</string>
+	<key>PROJECT_ID</key>
+	<string>refoot-c0e46</string>
+	<key>STORAGE_BUCKET</key>
+	<string>refoot-c0e46.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:925397435319:ios:31b98dcf40534b62</string>
+	<key>DATABASE_URL</key>
+	<string>https://refoot-c0e46.firebaseio.com</string>
+</dict>
+</plist>

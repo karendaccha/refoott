@@ -5,6 +5,8 @@
 
 target 'Refoott' do
 pod ‘Persei’
+pod 'Firebase'
+pod 'Firebase/Database'
 end
 
 target 'RefoottTests' do

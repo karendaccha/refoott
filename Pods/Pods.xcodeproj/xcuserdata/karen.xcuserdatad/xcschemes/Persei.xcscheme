@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'FCFEFEAB88023716E7B111A4'
+               BlueprintIdentifier = '125DB4FE45860DEF645ED41E'
                BlueprintName = 'Persei'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Persei.framework'>
